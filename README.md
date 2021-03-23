@@ -11,4 +11,7 @@ I'm Arthur.
 - English
 - Portuguese
 
+## Why?
+- 
+
 I don't know why you're reading this, but have a good day anyways
