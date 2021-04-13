@@ -1,17 +1,5 @@
 # Hi
 
-I'm Arthur.
+I'm Me.
 
-## What I like to do:
-- Program (I suffer a lot)
-- Procrastinate and not program
-
-## Languages:
-- Python
-- English
-- Portuguese
-
-## Why?
-- 
-
-I don't know why you're reading this, but have a good day anyways
+# Warning: Do not expect much from me. Thank you
